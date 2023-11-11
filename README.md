@@ -1,6 +1,10 @@
 # Team Voltage Vandals - Fall 2023 Rowan University IEEE Sumo Bots Competiton
 This project is the home of the Voltage Vandals, a team competiing in the Sumo Bots competition help by the Rowan University Chapter of IEEE in Fall 2023. The team consists of Christian Cipolletta, Matthew O'Donnell, Thomas Rasa, and Matthew Stroka. Inside this repository is the starter code given and the code used for the "kit" competition which landed the Voltage Vandals in 4th place.
 
+
+https://github.com/Cippppy/2023SumoBotCompetition/assets/98924381/1e05d240-f407-43a2-b899-1b205ebf920d
+
+
 ## Requirements
 If you want to run this code yourself the requriments are listed below:
 
